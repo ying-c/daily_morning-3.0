@@ -1,6 +1,7 @@
 # daily_morning-3.0
 可修改配置版
 
+测试模板：
 ~~~txt
 {{date.DATA}} 
 城市：{{city.DATA}} 
